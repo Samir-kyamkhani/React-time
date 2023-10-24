@@ -1,0 +1,10 @@
+function Chai(){
+    return(
+        <>
+        <h2>Chai is ready</h2>
+        <h3>Fragment consept </h3>
+        </>
+    )
+}
+
+export default Chai

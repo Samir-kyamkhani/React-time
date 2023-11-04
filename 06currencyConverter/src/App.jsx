@@ -26,7 +26,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('https://media.istockphoto.com/id/1705894697/photo/us-stock-market-exchange-on-the-computer-screen-financial-and-broker-agent-investment-concept.jpg?s=612x612&w=0&k=20&c=Z2S7Z3Y1uWrLr0TcJ6WugXrhWZn00g6RfXNwQvnNB70=')`,
+        backgroundImage: `url('https://media.istockphoto.com/id/1705894697/photo/us-stock-market-exchange-on-the-computer-screen-financial-and-broker-agent-investment-concept.jpg?s=612x612&w=0&k=20&c=Z2S7Z3Y1uWrLr0TcJ6WugXrhWZn00g6RfXNwQvnNB70=') `,
       }}
     >
       <div className="w-full">
